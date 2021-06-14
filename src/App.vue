@@ -20,7 +20,7 @@ export default {
 // main css
 body {
   //background-color: #999;
-  //test
+  //test chatchai
   background-color: #0071c5;
   line-height: 1;
 }
